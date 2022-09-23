@@ -9,6 +9,10 @@ This project doesn't do much except it can run an x86/64 instruction that is
 normally unavailable to processes. This project is mostly to see if it could be
 done, it doesn't have much use other than a template, so far.
 
+Copyright 2022 Luke Campbell
+
+See LICENSE for details.
+
 Dependencies
 ------------
 
